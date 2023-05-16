@@ -13,15 +13,15 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        /*TimerTask inicio = new TimerTask() {
+        TimerTask inicio = new TimerTask() {
             @Override
             public void run() {
-                Intent intent = new Intent(MainActivity.this, Principal.class);
+                Intent intent = new Intent(MainActivity.this, Login.class);
                 startActivity(intent);
                 finish();
             }
         };
         Timer tiempo = new Timer();
-        tiempo.schedule(inicio, 7000);*/
+        tiempo.schedule(inicio, 5000);
     }
 }
