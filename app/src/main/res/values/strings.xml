@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ProyectoFinal</string>
+    <string name="usser">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="Login">Ingresar</string>
+    <string name="register">Registrarse</string>
+    <string name="new_usser">Nuevo Usuario</string>
 </resources>
