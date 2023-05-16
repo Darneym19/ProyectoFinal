@@ -17,7 +17,7 @@
             android:text="@string/Bienvenidos"
             android:textColor="@color/black"
             android:textSize="40dp"
-            android:textStyle="italic"
+            android:textStyle="bold"
             android:layout_marginTop="20dp"/>
     </LinearLayout>
     <LinearLayout

@@ -1,7 +1,5 @@
 package com.mobie.proyectofinal;
-
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
 public class Registro extends AppCompatActivity {

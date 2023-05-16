@@ -22,6 +22,6 @@ public class MainActivity extends Activity {
             }
         };
         Timer tiempo = new Timer();
-        tiempo.schedule(inicio, 5000);
+        tiempo.schedule(inicio, 4000);
     }
 }
